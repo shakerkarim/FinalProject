@@ -1,0 +1,9 @@
+[
+  "test_project.py::test_check_winner",
+  "test_project.py::test_check_winner_green",
+  "test_project.py::test_check_winner_red",
+  "test_project.py::test_move_green_turtle",
+  "test_project.py::test_move_red_turtle",
+  "test_project.py::test_move_turtle",
+  "test_project.py::test_no_winner"
+] 
